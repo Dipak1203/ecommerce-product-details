@@ -1,5 +1,5 @@
 
-### Ecommerce Product Details Page 
+# Ecommerce Product Details Page 
 
 ## This project is a feature-rich, responsive product details page for an e-commerce application. Built using Next.js and Tailwind CSS, it incorporates an image gallery, cart functionality, size and color selection, product recommendations, and more.
 
@@ -18,6 +18,10 @@
     ```
 
 ## Why These Choices?
-# Next.js optimizes the user experience with its hybrid rendering capabilities.
-# Tailwind CSS accelerates development while maintaining a clean codebase.
+### Next.js optimizes the user experience with its hybrid rendering capabilities.
+### Tailwind CSS accelerates development while maintaining a clean codebase.
 
+
+
+### Live Demo 
+https://ecommerce-product-details-teal.vercel.app/
